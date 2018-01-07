@@ -11,5 +11,5 @@ _Dzięki zastosowaniu JavaScript, Ajax, Unify oraz Bootstrap stworzono aplikacj�
 W celu osiągnięcia porządanego efektu na innym serwerze bądź maszynie lokalnej, należy zaopatrzyć się w freamwork CSS - Unify.
 
 
-Dokumentacja użytkownika https://docs.google.com/document/d/1KtDdU8V-R_ghUUflxkpx0KbLKJhgiEfeBbLMQMgwpdU/edit?usp=sharing
+Dokumentacja użytkownika https://docs.google.com/document/d/1KtDdU8V-R_ghUUflxkpx0KbLKJhgiEfeBbLMQMgwpdU/edit?usp=sharing<br>
 Dokumentacja techniczna https://docs.google.com/document/d/1VR1BTDj3K8o2wSNoj9Mo6cAreUhDBunXRXRi7V8FHqE/edit?usp=sharing
